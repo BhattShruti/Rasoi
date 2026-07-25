@@ -49,7 +49,27 @@ Maximum Cooking Time: {time} minutes
 Goal: {goal}
 """
 
-    recipe = generate_recipe(user_prompt)
+    response = generate_recipe(user_prompt)
 
     st.divider()
-    st.write(recipe)
+
+    for recipe in response["recipes"]:
+
+        with st.container(border=True):
+
+            st.subheader(recipe["recipe_name"])
+
+            st.write(f"💡 {recipe['recommendation_reason']}")
+
+            st.write(
+                f"⏱️ {recipe['total_time_minutes']} min &nbsp;&nbsp;&nbsp; ⭐ {recipe['difficulty']}",
+                unsafe_allow_html=True
+            )
+
+            if "special_equipment" in recipe:
+                st.write(f"🔧 {recipe['special_equipment']}")
+
+            st.button(
+                "View Recipe",
+                key=recipe["recipe_name"]
+            )
