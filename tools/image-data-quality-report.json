@@ -1,0 +1,920 @@
+[
+  {
+    "recipe": "Egg Curry",
+    "filename": "egg-curry.jpg",
+    "source": "Local Library",
+    "license": "CC0 / Public Domain",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Egg Half Fry",
+    "filename": "egg-half-fry.jpg",
+    "source": "Local Library",
+    "license": "CC0 / Public Domain",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Egg Omelette",
+    "filename": "egg-omlette.jpg",
+    "source": "Local Library",
+    "license": "CC0 / Public Domain",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Aloo Matar",
+    "filename": "aloo-matar.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Aloo Paratha",
+    "filename": "aloo-paratha.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Aloo Tikki",
+    "filename": "aloo-tikki.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Avocado Toast",
+    "filename": "avocado-toast.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:avocado_toast,_m\u00e9rida,_yucat\u00e1n.jpg"
+  },
+  {
+    "recipe": "Baingan Bharta",
+    "filename": "baingan-bharta.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Barfi",
+    "filename": "barfi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:avalakki_burfi.jpg' doesn't mention any main words from 'Barfi'"
+  },
+  {
+    "recipe": "Besan Chilla",
+    "filename": "besan-chilla.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Bhatura",
+    "filename": "bhatura.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:battura.jpg' doesn't mention any main words from 'Bhatura'"
+  },
+  {
+    "recipe": "Bhel Puri",
+    "filename": "bhel-puri.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Bhindi Masala",
+    "filename": "bhindi-masala.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Bread Pakora",
+    "filename": "bread-pakora.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Burger",
+    "filename": "burger.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:equality_march_2022_in_krak\u00f3w_-_platforma_obywatelska.jpg' doesn't mention any main words from 'Burger'"
+  },
+  {
+    "recipe": "Butter Chicken",
+    "filename": "butter-chicken.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:butter_chicken,_city_grill_kottayam.jpg"
+  },
+  {
+    "recipe": "Butter Naan",
+    "filename": "butter-naan.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Caesar Salad",
+    "filename": "caesar-salad.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chana Masala",
+    "filename": "chana-masala.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chicken Biryani",
+    "filename": "chicken-biryani.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chicken Curry",
+    "filename": "chicken-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chicken Fried Rice",
+    "filename": "chicken-fried-rice.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chicken Pulao",
+    "filename": "chicken-pulao.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chicken Tikka Masala",
+    "filename": "chicken-tikka-masala.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chicken Tikka",
+    "filename": "chicken-tikka.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Chole Bhature",
+    "filename": "chole-bhature.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Cold Coffee",
+    "filename": "cold-coffee.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Curd Rice",
+    "filename": "curd-rice.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Cutlet",
+    "filename": "cutlet.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:breakfast_in_indian_railways.jpg' doesn't mention any main words from 'Cutlet'"
+  },
+  {
+    "recipe": "Dahi Puri",
+    "filename": "dahi-puri.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Dal Makhani",
+    "filename": "dal-makhani.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Dal Tadka",
+    "filename": "dal-tadka.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:dal_fry_tadka,_cumin_rice,_roasted_papad_on_the_side.jpg"
+  },
+  {
+    "recipe": "Dhokla",
+    "filename": "dhokla.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Egg Biryani",
+    "filename": "egg-biryani.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Unknown",
+    "filename": "egg-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": false,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Unknown",
+    "filename": "egg-half-fry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": false,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:delicious_egg_half_fry_,kolkata_-_west_bengal_-_dsc_0022.jpg"
+  },
+  {
+    "recipe": "Unknown",
+    "filename": "egg-omelette.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": false,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Fish Curry",
+    "filename": "fish-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "French Toast",
+    "filename": "french-toast.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Fried Rice",
+    "filename": "fried-rice.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Gajar Halwa",
+    "filename": "gajar-halwa.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Garlic Naan",
+    "filename": "garlic-naan.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Gobi Paratha",
+    "filename": "gobi-paratha.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Grilled Chicken",
+    "filename": "grilled-chicken.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Gulab Jamun",
+    "filename": "gulab-jamun.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Idli",
+    "filename": "idli.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Jalebi",
+    "filename": "jalebi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:authentic_jalebi_,desi_sweet_india.jpg"
+  },
+  {
+    "recipe": "Jeera Rice",
+    "filename": "jeera-rice.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Kachori",
+    "filename": "kachori.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Kadai Paneer",
+    "filename": "kadai-paneer.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:dumba_karahi_20200627.jpg' doesn't mention any main words from 'Kadai Paneer'"
+  },
+  {
+    "recipe": "Kadhi",
+    "filename": "kadhi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Kheer",
+    "filename": "kheer.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Khichdi",
+    "filename": "khichdi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:bangladeshi_chicken_khichuri.jpg' doesn't mention any main words from 'Khichdi'"
+  },
+  {
+    "recipe": "Kofta Curry",
+    "filename": "kofta-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Kulfi",
+    "filename": "kulfi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Ladoo",
+    "filename": "ladoo.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Lemon Rice",
+    "filename": "lemon-rice.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:indian_cuisine_from_south_india.jpg' doesn't mention any main words from 'Lemon Rice'"
+  },
+  {
+    "recipe": "Malai Kofta",
+    "filename": "malai-kofta.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Mango Lassi",
+    "filename": "mango-lassi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Mango Shake",
+    "filename": "mango-shake.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Masala Chai",
+    "filename": "masala-chai.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Masala Dosa",
+    "filename": "masala-dosa.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Medu Vada",
+    "filename": "medu-vada.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Mix Vegetable Curry",
+    "filename": "mix-vegetable-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:dinner_(non-veg)_on_sealdah_rajdhani.jpg' doesn't mention any main words from 'Mix Vegetable Curry'"
+  },
+  {
+    "recipe": "Mutton Biryani",
+    "filename": "mutton-biryani.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Mutton Curry",
+    "filename": "mutton-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Naan",
+    "filename": "naan.webp",
+    "source": "Wikimedia Commons",
+    "license": "Public domain",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:naan_bakery,_iran,_qajar_era_(circa_1850).jpg"
+  },
+  {
+    "recipe": "Pakora",
+    "filename": "pakora.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Palak Paneer",
+    "filename": "palak-paneer.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Pancakes",
+    "filename": "pancakes.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Paneer Bhurji",
+    "filename": "paneer-bhurji.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Explicitly flagged by user as incorrect photograph"
+  },
+  {
+    "recipe": "Paneer Paratha",
+    "filename": "paneer-paratha.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Paneer Tikka",
+    "filename": "paneer-tikka.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:malai_paneer_tikka,_pk_007.jpg"
+  },
+  {
+    "recipe": "Pani Puri",
+    "filename": "pani-puri.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Paratha",
+    "filename": "paratha.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Pasta",
+    "filename": "pasta.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:meaty_lasagna_8of8_(8736299782).jpg' doesn't mention any main words from 'Pasta'"
+  },
+  {
+    "recipe": "Pav Bhaji",
+    "filename": "pav-bhaji.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Pizza",
+    "filename": "pizza.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 2.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:chicago_deep_dish_(3850674567).jpg' doesn't mention any main words from 'Pizza'"
+  },
+  {
+    "recipe": "Plain Dosa",
+    "filename": "plain-dosa.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Poha",
+    "filename": "poha.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Pongal",
+    "filename": "pongal.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Poori Bhaji",
+    "filename": "poori-bhaji.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Prawn Curry",
+    "filename": "prawn-curry.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Rajma",
+    "filename": "rajma.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Rasgulla",
+    "filename": "rasgulla.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Rasmalai",
+    "filename": "rasmalai.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Roti",
+    "filename": "roti.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:0118_chapati_backen.jpg' doesn't mention any main words from 'Roti'"
+  },
+  {
+    "recipe": "Samosa",
+    "filename": "samosa.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Sandwich",
+    "filename": "sandwich.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Shahi Paneer",
+    "filename": "shahi-paneer.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Shahi Tukda",
+    "filename": "shahi-tukda.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Spring Roll",
+    "filename": "spring-roll.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source URL filename 'file:indian_food_at_its_best.jpg' doesn't mention any main words from 'Spring Roll'"
+  },
+  {
+    "recipe": "Sweet Lassi",
+    "filename": "sweet-lassi.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Tandoori Roti",
+    "filename": "tandoori-roti.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Tomato Rice",
+    "filename": "tomato-rice.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Tomato Soup",
+    "filename": "tomato-soup.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "SUSPICIOUS",
+    "reason": "Source image appears to be a platter/multiple dishes: file:2019-02-08_00_06_14_campbell's_condensed_tomato_soup_after_being_poured_into_a_bowl_but_before_being_heated_in_the_franklin_farm_section_of_oak_hill,_fairfax_county,_virginia.jpg"
+  },
+  {
+    "recipe": "Upma",
+    "filename": "upma.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Uttapam",
+    "filename": "uttapam.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Vada Pav",
+    "filename": "vada-pav.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Vegetable Biryani",
+    "filename": "vegetable-biryani.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Vegetable Pulao",
+    "filename": "vegetable-pulao.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  },
+  {
+    "recipe": "Paneer Butter Masala",
+    "filename": "paneer-butter-masala.webp",
+    "source": "Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "catalog_match": true,
+    "status": "VERIFIED",
+    "reason": ""
+  }
+]

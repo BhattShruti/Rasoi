@@ -1,0 +1,103 @@
+recipe,filename,source,license,catalog_match,status,reason
+Egg Curry,egg-curry.jpg,Local Library,CC0 / Public Domain,True,VERIFIED,
+Egg Half Fry,egg-half-fry.jpg,Local Library,CC0 / Public Domain,True,VERIFIED,
+Egg Omelette,egg-omlette.jpg,Local Library,CC0 / Public Domain,True,VERIFIED,
+Aloo Matar,aloo-matar.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Aloo Paratha,aloo-paratha.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Aloo Tikki,aloo-tikki.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Avocado Toast,avocado-toast.webp,Wikimedia Commons,CC BY 2.0,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:avocado_toast,_mérida,_yucatán.jpg"
+Baingan Bharta,baingan-bharta.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Barfi,barfi.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:avalakki_burfi.jpg' doesn't mention any main words from 'Barfi'
+Besan Chilla,besan-chilla.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Bhatura,bhatura.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:battura.jpg' doesn't mention any main words from 'Bhatura'
+Bhel Puri,bhel-puri.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Bhindi Masala,bhindi-masala.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Bread Pakora,bread-pakora.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Burger,burger.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:equality_march_2022_in_kraków_-_platforma_obywatelska.jpg' doesn't mention any main words from 'Burger'
+Butter Chicken,butter-chicken.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:butter_chicken,_city_grill_kottayam.jpg"
+Butter Naan,butter-naan.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Caesar Salad,caesar-salad.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Chana Masala,chana-masala.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Chicken Biryani,chicken-biryani.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Chicken Curry,chicken-curry.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Chicken Fried Rice,chicken-fried-rice.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Chicken Pulao,chicken-pulao.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Chicken Tikka Masala,chicken-tikka-masala.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Chicken Tikka,chicken-tikka.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Chole Bhature,chole-bhature.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Cold Coffee,cold-coffee.webp,Wikimedia Commons,CC BY 2.0,True,VERIFIED,
+Curd Rice,curd-rice.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Cutlet,cutlet.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:breakfast_in_indian_railways.jpg' doesn't mention any main words from 'Cutlet'
+Dahi Puri,dahi-puri.webp,Wikimedia Commons,CC BY-SA 3.0,True,VERIFIED,
+Dal Makhani,dal-makhani.webp,Wikimedia Commons,CC BY 2.0,True,VERIFIED,
+Dal Tadka,dal-tadka.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:dal_fry_tadka,_cumin_rice,_roasted_papad_on_the_side.jpg"
+Dhokla,dhokla.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Egg Biryani,egg-biryani.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Unknown,egg-curry.webp,Wikimedia Commons,CC BY-SA 4.0,False,VERIFIED,
+Unknown,egg-half-fry.webp,Wikimedia Commons,CC BY-SA 4.0,False,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:delicious_egg_half_fry_,kolkata_-_west_bengal_-_dsc_0022.jpg"
+Unknown,egg-omelette.webp,Wikimedia Commons,CC BY-SA 4.0,False,VERIFIED,
+Fish Curry,fish-curry.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+French Toast,french-toast.webp,Wikimedia Commons,CC BY 4.0,True,VERIFIED,
+Fried Rice,fried-rice.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Gajar Halwa,gajar-halwa.webp,Wikimedia Commons,CC BY 2.0,True,VERIFIED,
+Garlic Naan,garlic-naan.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Gobi Paratha,gobi-paratha.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Grilled Chicken,grilled-chicken.webp,Wikimedia Commons,CC BY 3.0,True,VERIFIED,
+Gulab Jamun,gulab-jamun.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Idli,idli.webp,Wikimedia Commons,CC BY-SA 3.0,True,VERIFIED,
+Jalebi,jalebi.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:authentic_jalebi_,desi_sweet_india.jpg"
+Jeera Rice,jeera-rice.webp,Wikimedia Commons,CC BY-SA 2.0,True,VERIFIED,
+Kachori,kachori.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Kadai Paneer,kadai-paneer.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:dumba_karahi_20200627.jpg' doesn't mention any main words from 'Kadai Paneer'
+Kadhi,kadhi.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Kheer,kheer.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Khichdi,khichdi.webp,Wikimedia Commons,CC BY 4.0,True,SUSPICIOUS,Source URL filename 'file:bangladeshi_chicken_khichuri.jpg' doesn't mention any main words from 'Khichdi'
+Kofta Curry,kofta-curry.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Kulfi,kulfi.webp,Wikimedia Commons,CC BY-SA 3.0,True,VERIFIED,
+Ladoo,ladoo.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Lemon Rice,lemon-rice.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:indian_cuisine_from_south_india.jpg' doesn't mention any main words from 'Lemon Rice'
+Malai Kofta,malai-kofta.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Mango Lassi,mango-lassi.webp,Wikimedia Commons,CC BY-SA 2.0,True,VERIFIED,
+Mango Shake,mango-shake.webp,Wikimedia Commons,CC BY-SA 2.0,True,VERIFIED,
+Masala Chai,masala-chai.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Masala Dosa,masala-dosa.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Medu Vada,medu-vada.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Mix Vegetable Curry,mix-vegetable-curry.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:dinner_(non-veg)_on_sealdah_rajdhani.jpg' doesn't mention any main words from 'Mix Vegetable Curry'
+Mutton Biryani,mutton-biryani.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Mutton Curry,mutton-curry.webp,Wikimedia Commons,CC BY-SA 3.0,True,VERIFIED,
+Naan,naan.webp,Wikimedia Commons,Public domain,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:naan_bakery,_iran,_qajar_era_(circa_1850).jpg"
+Pakora,pakora.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Palak Paneer,palak-paneer.webp,Wikimedia Commons,CC BY 2.0,True,VERIFIED,
+Pancakes,pancakes.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Paneer Bhurji,paneer-bhurji.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Explicitly flagged by user as incorrect photograph
+Paneer Paratha,paneer-paratha.webp,Wikimedia Commons,CC BY 2.0,True,VERIFIED,
+Paneer Tikka,paneer-tikka.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:malai_paneer_tikka,_pk_007.jpg"
+Pani Puri,pani-puri.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Paratha,paratha.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Pasta,pasta.webp,Wikimedia Commons,CC BY 2.0,True,SUSPICIOUS,Source URL filename 'file:meaty_lasagna_8of8_(8736299782).jpg' doesn't mention any main words from 'Pasta'
+Pav Bhaji,pav-bhaji.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Pizza,pizza.webp,Wikimedia Commons,CC BY-SA 2.0,True,SUSPICIOUS,Source URL filename 'file:chicago_deep_dish_(3850674567).jpg' doesn't mention any main words from 'Pizza'
+Plain Dosa,plain-dosa.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Poha,poha.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Pongal,pongal.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Poori Bhaji,poori-bhaji.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Prawn Curry,prawn-curry.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Rajma,rajma.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Rasgulla,rasgulla.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Rasmalai,rasmalai.webp,Wikimedia Commons,CC BY 2.0,True,VERIFIED,
+Roti,roti.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:0118_chapati_backen.jpg' doesn't mention any main words from 'Roti'
+Samosa,samosa.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Sandwich,sandwich.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Shahi Paneer,shahi-paneer.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Shahi Tukda,shahi-tukda.webp,Wikimedia Commons,CC0,True,VERIFIED,
+Spring Roll,spring-roll.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,Source URL filename 'file:indian_food_at_its_best.jpg' doesn't mention any main words from 'Spring Roll'
+Sweet Lassi,sweet-lassi.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Tandoori Roti,tandoori-roti.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Tomato Rice,tomato-rice.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Tomato Soup,tomato-soup.webp,Wikimedia Commons,CC BY-SA 4.0,True,SUSPICIOUS,"Source image appears to be a platter/multiple dishes: file:2019-02-08_00_06_14_campbell's_condensed_tomato_soup_after_being_poured_into_a_bowl_but_before_being_heated_in_the_franklin_farm_section_of_oak_hill,_fairfax_county,_virginia.jpg"
+Upma,upma.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Uttapam,uttapam.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Vada Pav,vada-pav.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Vegetable Biryani,vegetable-biryani.webp,Wikimedia Commons,CC BY-SA 3.0,True,VERIFIED,
+Vegetable Pulao,vegetable-pulao.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,
+Paneer Butter Masala,paneer-butter-masala.webp,Wikimedia Commons,CC BY-SA 4.0,True,VERIFIED,

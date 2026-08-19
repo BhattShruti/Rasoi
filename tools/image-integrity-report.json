@@ -1,0 +1,1011 @@
+{
+  "total_disk_images": 100,
+  "valid_images": 100,
+  "invalid_images": 0,
+  "duplicate_images": 0,
+  "unknown_images": 0,
+  "stale_catalog_entries": 0,
+  "stale_filenames": [],
+  "inventory": [
+    {
+      "filename": "aloo-gobi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP",
+      "intendedRecipe": "Aloo Gobi",
+      "status": "VALID"
+    },
+    {
+      "filename": "aloo-matar.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Aloo Matar",
+      "status": "VALID"
+    },
+    {
+      "filename": "aloo-paratha.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 976,
+      "format": "WEBP",
+      "intendedRecipe": "Aloo Paratha",
+      "status": "VALID"
+    },
+    {
+      "filename": "aloo-tikki.webp",
+      "exists": true,
+      "valid": true,
+      "width": 720,
+      "height": 640,
+      "format": "WEBP",
+      "intendedRecipe": "Aloo Tikki",
+      "status": "VALID"
+    },
+    {
+      "filename": "avocado-toast.webp",
+      "exists": true,
+      "valid": true,
+      "width": 675,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Avocado Toast",
+      "status": "VALID"
+    },
+    {
+      "filename": "baingan-bharta.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Baingan Bharta",
+      "status": "VALID"
+    },
+    {
+      "filename": "barfi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Barfi",
+      "status": "VALID"
+    },
+    {
+      "filename": "besan-chilla.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 675,
+      "format": "WEBP",
+      "intendedRecipe": "Besan Chilla",
+      "status": "VALID"
+    },
+    {
+      "filename": "bhatura.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Bhatura",
+      "status": "VALID"
+    },
+    {
+      "filename": "bhel-puri.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 553,
+      "format": "WEBP",
+      "intendedRecipe": "Bhel Puri",
+      "status": "VALID"
+    },
+    {
+      "filename": "bhindi-masala.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 730,
+      "format": "WEBP",
+      "intendedRecipe": "Bhindi Masala",
+      "status": "VALID"
+    },
+    {
+      "filename": "bread-pakora.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 991,
+      "format": "WEBP",
+      "intendedRecipe": "Bread Pakora",
+      "status": "VALID"
+    },
+    {
+      "filename": "burger.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 897,
+      "format": "WEBP",
+      "intendedRecipe": "Burger",
+      "status": "VALID"
+    },
+    {
+      "filename": "butter-chicken.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 899,
+      "format": "WEBP",
+      "intendedRecipe": "Butter Chicken",
+      "status": "VALID"
+    },
+    {
+      "filename": "butter-naan.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Butter Naan",
+      "status": "VALID"
+    },
+    {
+      "filename": "caesar-salad.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Caesar Salad",
+      "status": "VALID"
+    },
+    {
+      "filename": "chana-masala.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Chana Masala",
+      "status": "VALID"
+    },
+    {
+      "filename": "chicken-biryani.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 894,
+      "format": "WEBP",
+      "intendedRecipe": "Chicken Biryani",
+      "status": "VALID"
+    },
+    {
+      "filename": "chicken-curry.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1146,
+      "format": "WEBP",
+      "intendedRecipe": "Chicken Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "chicken-fried-rice.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Chicken Fried Rice",
+      "status": "VALID"
+    },
+    {
+      "filename": "chicken-pulao.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 799,
+      "format": "WEBP",
+      "intendedRecipe": "Chicken Pulao",
+      "status": "VALID"
+    },
+    {
+      "filename": "chicken-tikka-masala.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Chicken Tikka Masala",
+      "status": "VALID"
+    },
+    {
+      "filename": "chicken-tikka.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 721,
+      "format": "WEBP",
+      "intendedRecipe": "Chicken Tikka",
+      "status": "VALID"
+    },
+    {
+      "filename": "chole-bhature.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Chole Bhature",
+      "status": "VALID"
+    },
+    {
+      "filename": "cold-coffee.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Cold Coffee",
+      "status": "VALID"
+    },
+    {
+      "filename": "curd-rice.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 909,
+      "format": "WEBP",
+      "intendedRecipe": "Curd Rice",
+      "status": "VALID"
+    },
+    {
+      "filename": "cutlet.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Cutlet",
+      "status": "VALID"
+    },
+    {
+      "filename": "dahi-puri.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1024,
+      "height": 768,
+      "format": "WEBP",
+      "intendedRecipe": "Dahi Puri",
+      "status": "VALID"
+    },
+    {
+      "filename": "dal-makhani.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1123,
+      "format": "WEBP",
+      "intendedRecipe": "Dal Makhani",
+      "status": "VALID"
+    },
+    {
+      "filename": "dal-tadka.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Dal Tadka",
+      "status": "VALID"
+    },
+    {
+      "filename": "dhokla.webp",
+      "exists": true,
+      "valid": true,
+      "width": 960,
+      "height": 540,
+      "format": "WEBP",
+      "intendedRecipe": "Dhokla",
+      "status": "VALID"
+    },
+    {
+      "filename": "egg-biryani.webp",
+      "exists": true,
+      "valid": true,
+      "width": 640,
+      "height": 478,
+      "format": "WEBP",
+      "intendedRecipe": "Egg Biryani",
+      "status": "VALID"
+    },
+    {
+      "filename": "egg-curry.jpg",
+      "exists": true,
+      "valid": true,
+      "width": 193,
+      "height": 145,
+      "format": "JPEG",
+      "intendedRecipe": "Egg Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "egg-half-fry.jpg",
+      "exists": true,
+      "valid": true,
+      "width": 1024,
+      "height": 683,
+      "format": "JPEG",
+      "intendedRecipe": "Egg Half Fry",
+      "status": "VALID"
+    },
+    {
+      "filename": "egg-omlette.jpg",
+      "exists": true,
+      "valid": true,
+      "width": 305,
+      "height": 305,
+      "format": "JPEG",
+      "intendedRecipe": "Egg Omelette",
+      "status": "VALID"
+    },
+    {
+      "filename": "fish-curry.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Fish Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "french-toast.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "French Toast",
+      "status": "VALID"
+    },
+    {
+      "filename": "fried-rice.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 945,
+      "format": "WEBP",
+      "intendedRecipe": "Fried Rice",
+      "status": "VALID"
+    },
+    {
+      "filename": "gajar-halwa.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP",
+      "intendedRecipe": "Gajar Halwa",
+      "status": "VALID"
+    },
+    {
+      "filename": "garlic-naan.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Garlic Naan",
+      "status": "VALID"
+    },
+    {
+      "filename": "gobi-paratha.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Gobi Paratha",
+      "status": "VALID"
+    },
+    {
+      "filename": "grilled-chicken.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1032,
+      "height": 774,
+      "format": "WEBP",
+      "intendedRecipe": "Grilled Chicken",
+      "status": "VALID"
+    },
+    {
+      "filename": "gulab-jamun.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 798,
+      "format": "WEBP",
+      "intendedRecipe": "Gulab Jamun",
+      "status": "VALID"
+    },
+    {
+      "filename": "idli.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Idli",
+      "status": "VALID"
+    },
+    {
+      "filename": "jalebi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 816,
+      "height": 816,
+      "format": "WEBP",
+      "intendedRecipe": "Jalebi",
+      "status": "VALID"
+    },
+    {
+      "filename": "jeera-rice.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 675,
+      "format": "WEBP",
+      "intendedRecipe": "Jeera Rice",
+      "status": "VALID"
+    },
+    {
+      "filename": "kachori.webp",
+      "exists": true,
+      "valid": true,
+      "width": 913,
+      "height": 713,
+      "format": "WEBP",
+      "intendedRecipe": "Kachori",
+      "status": "VALID"
+    },
+    {
+      "filename": "kadai-paneer.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Kadai Paneer",
+      "status": "VALID"
+    },
+    {
+      "filename": "kadhi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Kadhi",
+      "status": "VALID"
+    },
+    {
+      "filename": "kheer.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1024,
+      "height": 768,
+      "format": "WEBP",
+      "intendedRecipe": "Kheer",
+      "status": "VALID"
+    },
+    {
+      "filename": "khichdi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Khichdi",
+      "status": "VALID"
+    },
+    {
+      "filename": "kofta-curry.webp",
+      "exists": true,
+      "valid": true,
+      "width": 720,
+      "height": 540,
+      "format": "WEBP",
+      "intendedRecipe": "Kofta Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "kulfi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 901,
+      "format": "WEBP",
+      "intendedRecipe": "Kulfi",
+      "status": "VALID"
+    },
+    {
+      "filename": "ladoo.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1144,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Ladoo",
+      "status": "VALID"
+    },
+    {
+      "filename": "lemon-rice.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Lemon Rice",
+      "status": "VALID"
+    },
+    {
+      "filename": "malai-kofta.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1082,
+      "format": "WEBP",
+      "intendedRecipe": "Malai Kofta",
+      "status": "VALID"
+    },
+    {
+      "filename": "mango-lassi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Mango Lassi",
+      "status": "VALID"
+    },
+    {
+      "filename": "mango-shake.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Mango Shake",
+      "status": "VALID"
+    },
+    {
+      "filename": "masala-chai.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Masala Chai",
+      "status": "VALID"
+    },
+    {
+      "filename": "masala-dosa.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Masala Dosa",
+      "status": "VALID"
+    },
+    {
+      "filename": "medu-vada.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 675,
+      "format": "WEBP",
+      "intendedRecipe": "Medu Vada",
+      "status": "VALID"
+    },
+    {
+      "filename": "mix-vegetable-curry.webp",
+      "exists": true,
+      "valid": true,
+      "width": 899,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Mix Vegetable Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "mutton-biryani.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Mutton Biryani",
+      "status": "VALID"
+    },
+    {
+      "filename": "mutton-curry.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Mutton Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "naan.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 872,
+      "format": "WEBP",
+      "intendedRecipe": "Naan",
+      "status": "VALID"
+    },
+    {
+      "filename": "pakora.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 899,
+      "format": "WEBP",
+      "intendedRecipe": "Pakora",
+      "status": "VALID"
+    },
+    {
+      "filename": "palak-paneer.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Palak Paneer",
+      "status": "VALID"
+    },
+    {
+      "filename": "pancakes.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP",
+      "intendedRecipe": "Pancakes",
+      "status": "VALID"
+    },
+    {
+      "filename": "paneer-bhurji.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Paneer Bhurji",
+      "status": "VALID"
+    },
+    {
+      "filename": "paneer-butter-masala.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Paneer Butter Masala",
+      "status": "VALID"
+    },
+    {
+      "filename": "paneer-paratha.webp",
+      "exists": true,
+      "valid": true,
+      "width": 640,
+      "height": 480,
+      "format": "WEBP",
+      "intendedRecipe": "Paneer Paratha",
+      "status": "VALID"
+    },
+    {
+      "filename": "paneer-tikka.webp",
+      "exists": true,
+      "valid": true,
+      "width": 843,
+      "height": 1124,
+      "format": "WEBP",
+      "intendedRecipe": "Paneer Tikka",
+      "status": "VALID"
+    },
+    {
+      "filename": "pani-puri.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Pani Puri",
+      "status": "VALID"
+    },
+    {
+      "filename": "paratha.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP",
+      "intendedRecipe": "Paratha",
+      "status": "VALID"
+    },
+    {
+      "filename": "pasta.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1024,
+      "height": 658,
+      "format": "WEBP",
+      "intendedRecipe": "Pasta",
+      "status": "VALID"
+    },
+    {
+      "filename": "pav-bhaji.webp",
+      "exists": true,
+      "valid": true,
+      "width": 899,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Pav Bhaji",
+      "status": "VALID"
+    },
+    {
+      "filename": "pizza.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Pizza",
+      "status": "VALID"
+    },
+    {
+      "filename": "plain-dosa.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 500,
+      "format": "WEBP",
+      "intendedRecipe": "Plain Dosa",
+      "status": "VALID"
+    },
+    {
+      "filename": "poha.webp",
+      "exists": true,
+      "valid": true,
+      "width": 959,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Poha",
+      "status": "VALID"
+    },
+    {
+      "filename": "pongal.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 675,
+      "format": "WEBP",
+      "intendedRecipe": "Pongal",
+      "status": "VALID"
+    },
+    {
+      "filename": "poori-bhaji.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP",
+      "intendedRecipe": "Poori Bhaji",
+      "status": "VALID"
+    },
+    {
+      "filename": "prawn-curry.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 800,
+      "format": "WEBP",
+      "intendedRecipe": "Prawn Curry",
+      "status": "VALID"
+    },
+    {
+      "filename": "rajma.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 796,
+      "format": "WEBP",
+      "intendedRecipe": "Rajma",
+      "status": "VALID"
+    },
+    {
+      "filename": "rasgulla.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 973,
+      "format": "WEBP",
+      "intendedRecipe": "Rasgulla",
+      "status": "VALID"
+    },
+    {
+      "filename": "rasmalai.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 795,
+      "format": "WEBP",
+      "intendedRecipe": "Rasmalai",
+      "status": "VALID"
+    },
+    {
+      "filename": "roti.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 905,
+      "format": "WEBP",
+      "intendedRecipe": "Roti",
+      "status": "VALID"
+    },
+    {
+      "filename": "samosa.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Samosa",
+      "status": "VALID"
+    },
+    {
+      "filename": "sandwich.webp",
+      "exists": true,
+      "valid": true,
+      "width": 852,
+      "height": 640,
+      "format": "WEBP",
+      "intendedRecipe": "Sandwich",
+      "status": "VALID"
+    },
+    {
+      "filename": "shahi-paneer.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Shahi Paneer",
+      "status": "VALID"
+    },
+    {
+      "filename": "shahi-tukda.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Shahi Tukda",
+      "status": "VALID"
+    },
+    {
+      "filename": "spring-roll.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Spring Roll",
+      "status": "VALID"
+    },
+    {
+      "filename": "sweet-lassi.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Sweet Lassi",
+      "status": "VALID"
+    },
+    {
+      "filename": "tandoori-roti.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Tandoori Roti",
+      "status": "VALID"
+    },
+    {
+      "filename": "tomato-rice.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Tomato Rice",
+      "status": "VALID"
+    },
+    {
+      "filename": "tomato-soup.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Tomato Soup",
+      "status": "VALID"
+    },
+    {
+      "filename": "upma.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 675,
+      "format": "WEBP",
+      "intendedRecipe": "Upma",
+      "status": "VALID"
+    },
+    {
+      "filename": "uttapam.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 675,
+      "format": "WEBP",
+      "intendedRecipe": "Uttapam",
+      "status": "VALID"
+    },
+    {
+      "filename": "vada-pav.webp",
+      "exists": true,
+      "valid": true,
+      "width": 900,
+      "height": 1200,
+      "format": "WEBP",
+      "intendedRecipe": "Vada Pav",
+      "status": "VALID"
+    },
+    {
+      "filename": "vegetable-biryani.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1200,
+      "height": 900,
+      "format": "WEBP",
+      "intendedRecipe": "Vegetable Biryani",
+      "status": "VALID"
+    },
+    {
+      "filename": "vegetable-pulao.webp",
+      "exists": true,
+      "valid": true,
+      "width": 1000,
+      "height": 633,
+      "format": "WEBP",
+      "intendedRecipe": "Vegetable Pulao",
+      "status": "VALID"
+    }
+  ]
+}

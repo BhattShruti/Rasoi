@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest: #1F5D3A;
+  --color-forest-hover: #16462B;
+  --color-basil: #5E9F63;
+  --color-basil-hover: #4D8351;
+  --color-coral: #F26457;
+  --color-coral-hover: #E05346;
+  --color-mango: #F4B942;
+  --color-cream: #FFFDF8;
+  --color-cream-dark: #F6F4EB;
+  --color-charcoal: #333333;
+  --color-warmgray: #757575;
+  
+  /* Legacy mapping for backward compatibility */
+  --color-terracotta: #1F5D3A;
+  --color-terracotta-hover: #16462B;
+  --color-sage: #5E9F63;
+  --color-sage-hover: #4D8351;
+  --color-gold: #F4B942;
+  
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  
+  --shadow-editorial: 0 10px 30px -10px rgba(31, 93, 58, 0.08), 0 1px 3px rgba(51, 51, 51, 0.02);
+  --shadow-premium: 0 20px 40px -15px rgba(51, 51, 51, 0.05), 0 1px 3px rgba(51, 51, 51, 0.02);
+  --shadow-deep: 0 30px 60px -20px rgba(51, 51, 51, 0.1), 0 2px 5px rgba(51, 51, 51, 0.03);
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-cream);
+    background-image: 
+      radial-gradient(var(--color-forest)/0.02 1px, transparent 0),
+      radial-gradient(var(--color-charcoal)/0.015 1px, transparent 0);
+    background-size: 28px 28px;
+    background-position: 0 0, 14px 14px;
+    color: var(--color-charcoal);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-serif);
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Custom Utilities for Premium Look */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Smooth typing cursor animation for Ask Chef */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.cursor-blink {
+  animation: blink 1s infinite;
+}
+
+/* Elegant editorial print layout styles */
+@media print {
+  body {
+    background: white !important;
+    background-image: none !important;
+    color: black !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
+
+/* Interactive underline animation */
+.editorial-link {
+  position: relative;
+}
+.editorial-link::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: -2px;
+  left: 0;
+  background-color: var(--color-forest);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+.editorial-link:hover::after {
+  transform: scaleX(1);
+  transform-origin: bottom left;
+}

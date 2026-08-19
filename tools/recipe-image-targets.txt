@@ -1,0 +1,100 @@
+Paneer Butter Masala
+Kadai Paneer
+Palak Paneer
+Shahi Paneer
+Paneer Tikka
+Paneer Bhurji
+Butter Chicken
+Chicken Curry
+Chicken Tikka
+Chicken Tikka Masala
+Chicken Biryani
+Mutton Biryani
+Vegetable Biryani
+Egg Biryani
+Mutton Curry
+Fish Curry
+Prawn Curry
+Egg Curry
+Dal Tadka
+Dal Makhani
+Chana Masala
+Rajma
+Aloo Gobi
+Aloo Matar
+Bhindi Masala
+Baingan Bharta
+Mix Vegetable Curry
+Malai Kofta
+Kofta Curry
+Kadhi
+Jeera Rice
+Lemon Rice
+Curd Rice
+Tomato Rice
+Vegetable Pulao
+Chicken Pulao
+Khichdi
+Pongal
+Fried Rice
+Chicken Fried Rice
+Masala Dosa
+Plain Dosa
+Idli
+Medu Vada
+Poha
+Upma
+Aloo Paratha
+Paneer Paratha
+Gobi Paratha
+Poori Bhaji
+Chole Bhature
+Besan Chilla
+Uttapam
+Egg Omelette
+Egg Half Fry
+Samosa
+Pakora
+Aloo Tikki
+Pav Bhaji
+Vada Pav
+Pani Puri
+Bhel Puri
+Dahi Puri
+Kachori
+Dhokla
+Spring Roll
+Bread Pakora
+Cutlet
+Naan
+Butter Naan
+Roti
+Tandoori Roti
+Garlic Naan
+Bhatura
+Paratha
+Gulab Jamun
+Jalebi
+Rasgulla
+Rasmalai
+Kheer
+Gajar Halwa
+Kulfi
+Barfi
+Ladoo
+Shahi Tukda
+Mango Lassi
+Sweet Lassi
+Masala Chai
+Cold Coffee
+Mango Shake
+Pasta
+Pizza
+Burger
+Sandwich
+Pancakes
+French Toast
+Avocado Toast
+Caesar Salad
+Tomato Soup
+Grilled Chicken

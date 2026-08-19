@@ -1,0 +1,101 @@
+Target Recipe,Status,Match Type,Resolved Image,Canonical Name
+Paneer Butter Masala,MATCHED,exact,paneer-butter-masala.webp,Paneer Butter Masala
+Kadai Paneer,MATCHED,category,palak-paneer.webp,Palak Paneer
+Palak Paneer,MATCHED,exact,palak-paneer.webp,Palak Paneer
+Shahi Paneer,MATCHED,exact,shahi-paneer.webp,Shahi Paneer
+Paneer Tikka,MATCHED,category,chicken-tikka-masala.webp,Chicken Tikka Masala
+Paneer Bhurji,MATCHED,category,palak-paneer.webp,Palak Paneer
+Butter Chicken,MATCHED,category,chicken-biryani.webp,Chicken Biryani
+Chicken Curry,MATCHED,exact,chicken-curry.webp,Chicken Curry
+Chicken Tikka,MATCHED,exact,chicken-tikka.webp,Chicken Tikka
+Chicken Tikka Masala,MATCHED,exact,chicken-tikka-masala.webp,Chicken Tikka Masala
+Chicken Biryani,MATCHED,exact,chicken-biryani.webp,Chicken Biryani
+Mutton Biryani,MATCHED,exact,mutton-biryani.webp,Mutton Biryani
+Vegetable Biryani,MATCHED,exact,vegetable-biryani.webp,Vegetable Biryani
+Egg Biryani,MATCHED,exact,egg-biryani.webp,Egg Biryani
+Mutton Curry,MATCHED,exact,mutton-curry.webp,Mutton Curry
+Fish Curry,MATCHED,exact,fish-curry.webp,Fish Curry
+Prawn Curry,MATCHED,exact,prawn-curry.webp,Prawn Curry
+Egg Curry,MATCHED,exact,egg-curry.jpg,Egg Curry
+Dal Tadka,MATCHED,category,dal-makhani.webp,Dal Makhani
+Dal Makhani,MATCHED,exact,dal-makhani.webp,Dal Makhani
+Chana Masala,MATCHED,exact,chana-masala.webp,Chana Masala
+Rajma,MATCHED,exact,rajma.webp,Rajma
+Aloo Gobi,MATCHED,exact,aloo-gobi.webp,Aloo Gobi
+Aloo Matar,MATCHED,exact,aloo-matar.webp,Aloo Matar
+Bhindi Masala,MATCHED,exact,bhindi-masala.webp,Bhindi Masala
+Baingan Bharta,MATCHED,exact,baingan-bharta.webp,Baingan Bharta
+Mix Vegetable Curry,MATCHED,category,chicken-curry.webp,Chicken Curry
+Malai Kofta,MATCHED,exact,malai-kofta.webp,Malai Kofta
+Kofta Curry,MATCHED,exact,kofta-curry.webp,Kofta Curry
+Kadhi,MATCHED,exact,kadhi.webp,Kadhi
+Jeera Rice,MATCHED,exact,jeera-rice.webp,Jeera Rice
+Lemon Rice,MATCHED,category,curd-rice.webp,Curd Rice
+Curd Rice,MATCHED,exact,curd-rice.webp,Curd Rice
+Tomato Rice,MATCHED,exact,tomato-rice.webp,Tomato Rice
+Vegetable Pulao,MATCHED,exact,vegetable-pulao.webp,Vegetable Pulao
+Chicken Pulao,MATCHED,exact,chicken-pulao.webp,Chicken Pulao
+Khichdi,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Pongal,MATCHED,exact,pongal.webp,Pongal
+Fried Rice,MATCHED,exact,fried-rice.webp,Fried Rice
+Chicken Fried Rice,MATCHED,exact,chicken-fried-rice.webp,Chicken Fried Rice
+Masala Dosa,MATCHED,exact,masala-dosa.webp,Masala Dosa
+Plain Dosa,MATCHED,exact,plain-dosa.webp,Plain Dosa
+Idli,MATCHED,exact,idli.webp,Idli
+Medu Vada,MATCHED,exact,medu-vada.webp,Medu Vada
+Poha,MATCHED,exact,poha.webp,Poha
+Upma,MATCHED,exact,upma.webp,Upma
+Aloo Paratha,MATCHED,exact,aloo-paratha.webp,Aloo Paratha
+Paneer Paratha,MATCHED,exact,paneer-paratha.webp,Paneer Paratha
+Gobi Paratha,MATCHED,exact,gobi-paratha.webp,Gobi Paratha
+Poori Bhaji,MATCHED,exact,poori-bhaji.webp,Poori Bhaji
+Chole Bhature,MATCHED,exact,chole-bhature.webp,Chole Bhature
+Besan Chilla,MATCHED,exact,besan-chilla.webp,Besan Chilla
+Uttapam,MATCHED,exact,uttapam.webp,Uttapam
+Egg Omelette,MATCHED,exact,egg-omlette.jpg,Egg Omelette
+Egg Half Fry,MATCHED,exact,egg-half-fry.jpg,Egg Half Fry
+Samosa,MATCHED,exact,samosa.webp,Samosa
+Pakora,MATCHED,exact,pakora.webp,Pakora
+Aloo Tikki,MATCHED,exact,aloo-tikki.webp,Aloo Tikki
+Pav Bhaji,MATCHED,exact,pav-bhaji.webp,Pav Bhaji
+Vada Pav,MATCHED,exact,vada-pav.webp,Vada Pav
+Pani Puri,MATCHED,exact,pani-puri.webp,Pani Puri
+Bhel Puri,MATCHED,exact,bhel-puri.webp,Bhel Puri
+Dahi Puri,MATCHED,exact,dahi-puri.webp,Dahi Puri
+Kachori,MATCHED,exact,kachori.webp,Kachori
+Dhokla,MATCHED,exact,dhokla.webp,Dhokla
+Spring Roll,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Bread Pakora,MATCHED,exact,bread-pakora.webp,Bread Pakora
+Cutlet,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Naan,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Butter Naan,MATCHED,exact,butter-naan.webp,Butter Naan
+Roti,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Tandoori Roti,MATCHED,exact,tandoori-roti.webp,Tandoori Roti
+Garlic Naan,MATCHED,exact,garlic-naan.webp,Garlic Naan
+Bhatura,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Paratha,MATCHED,exact,paratha.webp,Paratha
+Gulab Jamun,MATCHED,exact,gulab-jamun.webp,Gulab Jamun
+Jalebi,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Rasgulla,MATCHED,exact,rasgulla.webp,Rasgulla
+Rasmalai,MATCHED,exact,rasmalai.webp,Rasmalai
+Kheer,MATCHED,exact,kheer.webp,Kheer
+Gajar Halwa,MATCHED,exact,gajar-halwa.webp,Gajar Halwa
+Kulfi,MATCHED,exact,kulfi.webp,Kulfi
+Barfi,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Ladoo,MATCHED,exact,ladoo.webp,Ladoo
+Shahi Tukda,MATCHED,exact,shahi-tukda.webp,Shahi Tukda
+Mango Lassi,MATCHED,exact,mango-lassi.webp,Mango Lassi
+Sweet Lassi,MATCHED,exact,sweet-lassi.webp,Sweet Lassi
+Masala Chai,MATCHED,exact,masala-chai.webp,Masala Chai
+Cold Coffee,MATCHED,exact,cold-coffee.webp,Cold Coffee
+Mango Shake,MATCHED,exact,mango-shake.webp,Mango Shake
+Pasta,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Pizza,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Burger,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Sandwich,MATCHED,exact,sandwich.webp,Sandwich
+Pancakes,MATCHED,exact,pancakes.webp,Pancakes
+French Toast,MATCHED,exact,french-toast.webp,French Toast
+Avocado Toast,FALLBACK,default_fallback,default-food.webp,Default Fallback
+Caesar Salad,MATCHED,exact,caesar-salad.webp,Caesar Salad
+Tomato Soup,MATCHED,category,tomato-rice.webp,Tomato Rice
+Grilled Chicken,MATCHED,exact,grilled-chicken.webp,Grilled Chicken

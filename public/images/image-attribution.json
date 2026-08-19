@@ -1,0 +1,731 @@
+{
+  "egg-curry.jpg": {
+    "filename": "egg-curry.jpg",
+    "source": "Local Library",
+    "sourceUrl": "local://public/images/recipes/egg-curry.jpg",
+    "creator": "Rasoi Library",
+    "license": "CC0 / Public Domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "downloadDate": "2026-01-01"
+  },
+  "egg-half-fry.jpg": {
+    "filename": "egg-half-fry.jpg",
+    "source": "Local Library",
+    "sourceUrl": "local://public/images/recipes/egg-half-fry.jpg",
+    "creator": "Rasoi Library",
+    "license": "CC0 / Public Domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "downloadDate": "2026-01-01"
+  },
+  "egg-omlette.jpg": {
+    "filename": "egg-omlette.jpg",
+    "source": "Local Library",
+    "sourceUrl": "local://public/images/recipes/egg-omlette.jpg",
+    "creator": "Rasoi Library",
+    "license": "CC0 / Public Domain",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "downloadDate": "2026-01-01"
+  },
+  "aloo-matar.webp": {
+    "filename": "aloo-matar.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aalu_Matar_Curry.jpg",
+    "creator": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "aloo-paratha.webp": {
+    "filename": "aloo-paratha.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Amazing_Aloo_Paratha_and_Lovely_Lassi%22.jpg",
+    "creator": "Mahi Tatavarty",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "aloo-tikki.webp": {
+    "filename": "aloo-tikki.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aloo_Ki_Tikki_02.jpg",
+    "creator": "MyFoodSpa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "baingan-bharta.webp": {
+    "filename": "baingan-bharta.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2025-04-07_-_Baingan_bharta.jpg",
+    "creator": "Voltmetro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "besan-chilla.webp": {
+    "filename": "besan-chilla.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Besan_Chilla_Pizza.jpg",
+    "creator": "Ruchika More",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "bhel-puri.webp": {
+    "filename": "bhel-puri.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BHEL_PURI_HOMEMADE_KOTA_032.jpg",
+    "creator": "Manoj2095",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "bhindi-masala.webp": {
+    "filename": "bhindi-masala.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bharvan_Bhindi_or_Masala_Bhindi.jpg",
+    "creator": "Vilalali",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "bread-pakora.webp": {
+    "filename": "bread-pakora.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bread_Pakoda_1.jpg",
+    "creator": "Prateek Pattanaik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "butter-naan.webp": {
+    "filename": "butter-naan.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Butter_Naan_2.jpg",
+    "creator": "Ganesh Mohan T",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "caesar-salad.webp": {
+    "filename": "caesar-salad.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Caesar%27s_salad_at_Caesar%27s_restaurant_2018.jpg",
+    "creator": "Keizers",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "chana-masala.webp": {
+    "filename": "chana-masala.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chana_Ko_Tarkari.jpg",
+    "creator": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "chicken-biryani.webp": {
+    "filename": "chicken-biryani.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_home_made_plate_of_mutton_biryani_served_with_chicken_kassa_cooked_in_the_bengali_style.jpg",
+    "creator": "Subhrajyoti07",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "chicken-curry.webp": {
+    "filename": "chicken-curry.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Butter_chicken_curry_of_Origin_Bento.jpg",
+    "creator": "\u6bd2\u5cf6\u307f\u308b\u304f",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "chicken-fried-rice.webp": {
+    "filename": "chicken-fried-rice.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_fried_rice_-_Stir_Fry_by_CK_2023-12-02.jpg",
+    "creator": "Andy Li",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "chicken-pulao.webp": {
+    "filename": "chicken-pulao.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bihari_Style_Pudina_Chicken_Pulao_with_Raita_and_Sabudana_Cutlet.jpg",
+    "creator": "Vidurmayor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "chicken-tikka-masala.webp": {
+    "filename": "chicken-tikka-masala.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Tikka_Masala_-_Mohammed_-_Spice_Of_Life.jpg",
+    "creator": "Andy Li",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "chicken-tikka.webp": {
+    "filename": "chicken-tikka.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken-Tikka.jpg",
+    "creator": "Minaxibose1992",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "chole-bhature.webp": {
+    "filename": "chole-bhature.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bikaner_chole_bhature.jpg",
+    "creator": "Aleemk72",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "cold-coffee.webp": {
+    "filename": "cold-coffee.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chameleon_Cold_Brew_Organic_Vanilla_Coffee_-_Glass_Bottle_(52953262064).jpg",
+    "creator": "Tony Webster",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "curd-rice.webp": {
+    "filename": "curd-rice.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curd_Rice.jpg",
+    "creator": "Sudharshan Shanmugasundaram",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "dahi-puri.webp": {
+    "filename": "dahi-puri.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dahi-Puri..JPG",
+    "creator": "Aditya thaokar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-08-17"
+  },
+  "dal-makhani.webp": {
+    "filename": "dal-makhani.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Creamy_Lentils_(Dal_Makhani)_(2239000538).jpg",
+    "creator": "rovingI",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "dhokla.webp": {
+    "filename": "dhokla.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gujarati_Dhokla_(Khaman_Dhokla).jpg",
+    "creator": "Bhavana Homecook",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "egg-biryani.webp": {
+    "filename": "egg-biryani.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egg_Biryani.JPG",
+    "creator": "Siya Bedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "egg-curry.webp": {
+    "filename": "egg-curry.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egg_Curry_4.jpg",
+    "creator": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "egg-omelette.webp": {
+    "filename": "egg-omelette.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FreshFarm_Omlette_with_Parathas.jpg",
+    "creator": "Sar8b",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "fish-curry.webp": {
+    "filename": "fish-curry.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alappy_Fish_Curry.JPG",
+    "creator": "Amalsatheesha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "french-toast.webp": {
+    "filename": "french-toast.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amtrak_Signature_Railroad_French_Toast_and_Orange_Juice_-_2021-11-15_-_Sarah_Stierch_01.jpg",
+    "creator": "Missvain",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "fried-rice.webp": {
+    "filename": "fried-rice.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_rice_(veg).JPG",
+    "creator": "Bhaskaranaidu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "gajar-halwa.webp": {
+    "filename": "gajar-halwa.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carrot_gajar_halwa_with_kheer_India_Sweets.jpg",
+    "creator": "Jing",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "garlic-naan.webp": {
+    "filename": "garlic-naan.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adraki_Naan_(Garlic_Naan).JPG",
+    "creator": "HARIOM.AWASTHI",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "gobi-paratha.webp": {
+    "filename": "gobi-paratha.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aloo_gobi_paratha_-_Massachusetts.jpg",
+    "creator": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "grilled-chicken.webp": {
+    "filename": "grilled-chicken.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grill_chicken.jpg",
+    "creator": "Anandha abirami Govindan",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "downloadDate": "2026-08-17"
+  },
+  "gulab-jamun.webp": {
+    "filename": "gulab-jamun.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diwali_greetings_shot_with_Gulab_Jamun_and_Milk_Cake.jpg",
+    "creator": "Sayantan Sarkar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "idli.webp": {
+    "filename": "idli.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Idli_Sambar_Chutney_in_Madras.JPG",
+    "creator": "Ask27",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-08-17"
+  },
+  "jeera-rice.webp": {
+    "filename": "jeera-rice.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeera-rice.JPG",
+    "creator": "Sonia Goyal",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "kachori.webp": {
+    "filename": "kachori.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kachori-sabzi.jpg",
+    "creator": "Priyanka nawalramka",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "kadhi.webp": {
+    "filename": "kadhi.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_dish_-_Kadhi_Chawal.jpg",
+    "creator": "Neha Sonal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "kheer.webp": {
+    "filename": "kheer.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CHAPATI_%26_KHEER_(RICE_KHEER).JPG",
+    "creator": "Kaman7580",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "kofta-curry.webp": {
+    "filename": "kofta-curry.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hara_chicken_kofta_curry.jpg",
+    "creator": "Hrishikes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "kulfi.webp": {
+    "filename": "kulfi.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_kulfi_ice_cream_in_a_pot.jpg",
+    "creator": "Parvathisri",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-08-17"
+  },
+  "ladoo.webp": {
+    "filename": "ladoo.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mothichoor_Ladoo-Mangalore-Karnataka-DSC001.jpg",
+    "creator": "Yakshitha",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "malai-kofta.webp": {
+    "filename": "malai-kofta.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kofta_Curry_(cropped).JPG",
+    "creator": "Miansari66",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "mango-lassi.webp": {
+    "filename": "mango-lassi.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2008_07_05_-_Washington_DC_-_Folklife_Festival_-_Mango_Lassi_(3172498761).jpg",
+    "creator": "thisisbossi from Washington, DC, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "mango-shake.webp": {
+    "filename": "mango-shake.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chili-mango_milkshake_-_Sparkys_-_Hatch_New_Mexico.jpg",
+    "creator": "Samat Jain from New York City, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "masala-chai.webp": {
+    "filename": "masala-chai.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chai_Latte_-_T_@_The_Dials_2024-02-26.jpg",
+    "creator": "Andy Li",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "masala-dosa.webp": {
+    "filename": "masala-dosa.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Masala_Dosa_02.jpg",
+    "creator": "Saisumanth532",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "medu-vada.webp": {
+    "filename": "medu-vada.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aesthetic_Medu_Vadai.jpg",
+    "creator": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "mutton-biryani.webp": {
+    "filename": "mutton-biryani.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biryani_Home.jpg",
+    "creator": "Shyamveer.singh1982",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "mutton-curry.webp": {
+    "filename": "mutton-curry.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mutton_Curry_(44786).jpg",
+    "creator": "Gaurav Dhwaj Khadka",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-08-17"
+  },
+  "pakora.webp": {
+    "filename": "pakora.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_pakora-MB21.jpg",
+    "creator": "Rajeeb Dutta",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "palak-paneer.webp": {
+    "filename": "palak-paneer.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_(53569672035).jpg",
+    "creator": "Kanesue",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "pancakes.webp": {
+    "filename": "pancakes.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eating_Pancakes_(Unsplash).jpg",
+    "creator": "Gabriel Gurrola gabrielgurrola",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "paneer-paratha.webp": {
+    "filename": "paneer-paratha.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Awadhi_palak_paneer_paratha_dahi.jpg",
+    "creator": "rovingl",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "pani-puri.webp": {
+    "filename": "pani-puri.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crispy_Pani_Puri.jpg",
+    "creator": "Teena Sometimes",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "paratha.webp": {
+    "filename": "paratha.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Indian_Paratha_and_Sabzi.JPG",
+    "creator": "Nirmal Deb",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "pav-bhaji.webp": {
+    "filename": "pav-bhaji.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bhaji_pav_2.jpg",
+    "creator": "BHAAGIi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "plain-dosa.webp": {
+    "filename": "plain-dosa.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dosa_(Plain).jpg",
+    "creator": "Vivekdoshi11",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "poha.webp": {
+    "filename": "poha.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kanda_Poha-Diu-DSC003.jpg",
+    "creator": "Mahi Gajwani",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "pongal.webp": {
+    "filename": "pongal.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aesthetic_Ven_Pongal.jpg",
+    "creator": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "poori-bhaji.webp": {
+    "filename": "poori-bhaji.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aalu_Poori.JPG",
+    "creator": "Er.vishalmehta83",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "prawn-curry.webp": {
+    "filename": "prawn-curry.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bangladeshi_Prawn_Curry.jpg",
+    "creator": "Jubair1985",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "rajma.webp": {
+    "filename": "rajma.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brinjal_rajma_masala.JPG",
+    "creator": "Nithyasrm",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "rasgulla.webp": {
+    "filename": "rasgulla.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rasgulla.jpg",
+    "creator": "HrichikHv",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "rasmalai.webp": {
+    "filename": "rasmalai.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mela_Rasmalai_(4688397958).jpg",
+    "creator": "snowpea&amp;bokchoi",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "downloadDate": "2026-08-17"
+  },
+  "samosa.webp": {
+    "filename": "samosa.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aloo_matar_with_samosa_and_green_chili_pickle_-_Massachusetts.jpg",
+    "creator": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "sandwich.webp": {
+    "filename": "sandwich.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grilled_Aubergine_and_Pesto_Sandwich03.jpg",
+    "creator": "Homemade-Flavours",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "shahi-paneer.webp": {
+    "filename": "shahi-paneer.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naan_shahi_paneer.jpg",
+    "creator": "Realanant 1995",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "shahi-tukda.webp": {
+    "filename": "shahi-tukda.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fried_Bread_Pieces_For_Shahi_Tukray_(Shahi_Tukda).JPG",
+    "creator": "Miansari66",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "downloadDate": "2026-08-17"
+  },
+  "sweet-lassi.webp": {
+    "filename": "sweet-lassi.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lassi(sweet).JPG",
+    "creator": "Hartej.hundal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "tandoori-roti.webp": {
+    "filename": "tandoori-roti.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Butter-tandoori-roti.jpg",
+    "creator": "Ravi Dwivedi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "tomato-rice.webp": {
+    "filename": "tomato-rice.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_tomato_curry.jpg",
+    "creator": "Jessanhad11",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "upma.webp": {
+    "filename": "upma.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_photo_of_Upma.jpg",
+    "creator": "Thamizhpparithi Maari",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "uttapam.webp": {
+    "filename": "uttapam.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Back_side_of_Mix_lentils_Uttapam_P_20190410_144927.jpg",
+    "creator": "Sumita Roy Dutta",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "vada-pav.webp": {
+    "filename": "vada-pav.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aran_Vada_Pav_Mumbai.jpg",
+    "creator": "Jpatokal",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "vegetable-biryani.webp": {
+    "filename": "vegetable-biryani.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veg_Sahi_Biryani_Recipe.jpg",
+    "creator": "Katharva",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "downloadDate": "2026-08-17"
+  },
+  "vegetable-pulao.webp": {
+    "filename": "vegetable-pulao.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Veg_Pulao_(Indian_fried_rice).jpg",
+    "creator": "Sumit Surai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  },
+  "paneer-butter-masala.webp": {
+    "filename": "paneer-butter-masala.webp",
+    "source": "Wikimedia Commons",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paneer_Butter_Masala_2.jpg",
+    "creator": "Gannu03",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "downloadDate": "2026-08-17"
+  }
+}

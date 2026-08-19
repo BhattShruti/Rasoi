@@ -1,0 +1,24 @@
+{
+  "total_images": 80,
+  "valid_images": 80,
+  "invalid_images": 0,
+  "duplicate_images": 0,
+  "missing_catalog_entries": [],
+  "recipes_with_exact_image": 80,
+  "recipes_using_category_image": 8,
+  "recipes_using_default_fallback": 12,
+  "average_image_size_kb": 105.71,
+  "largest_image": {
+    "filename": "ladoo.webp",
+    "size_kb": 263.25
+  },
+  "smallest_image": {
+    "filename": "egg-curry.jpg",
+    "size_kb": 3.63
+  },
+  "target_coverage_summary": {
+    "total_targets": 100,
+    "exact_coverage_pct": 80.0,
+    "total_coverage_pct": 88.0
+  }
+}
