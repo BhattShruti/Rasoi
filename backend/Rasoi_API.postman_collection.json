@@ -1,0 +1,241 @@
+{
+	"info": {
+		"_postman_id": "8b5f3a09-7756-42d4-a82f-87a1d1d9bf5c",
+		"name": "Rasoi API",
+		"description": "Postman Collection for Rasoi AI Chef backend REST API endpoints.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Health Check",
+			"item": [
+				{
+					"name": "Get Service Health (v1)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/v1/health",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"health"
+							]
+						},
+						"description": "Returns details about API health status, version, uptime, and Gemini API key status."
+					},
+					"response": []
+				},
+				{
+					"name": "Get Service Health (Legacy Compatibility)",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{base_url}}/api/health",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"health"
+							]
+						},
+						"description": "Compatibility endpoint mapping to health details for older consumers."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Recipe Generation",
+			"item": [
+				{
+					"name": "Generate Suggestion (Success)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"ingredients\": \"Paneer, Onion, Tomato, Capsicum\",\n    \"time\": 30,\n    \"goal\": \"Quick Meal\",\n    \"cuisine\": \"Indian\",\n    \"servings\": 2\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/recipes/generate",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"recipes",
+								"generate"
+							]
+						},
+						"description": "Generates 3 customized recipe suggestions based on input ingredients."
+					},
+					"response": []
+				},
+				{
+					"name": "Generate Suggestion (Validation Error - Missing Field)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"ingredients\": \"Paneer\"\n    // Missing required field 'time'\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/recipes/generate",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"recipes",
+								"generate"
+							]
+						},
+						"description": "Triggers validation checks on required parameter fields."
+					},
+					"response": []
+				},
+				{
+					"name": "Generate Suggestion (Validation Error - Invalid Type)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"ingredients\": \"Paneer\",\n    \"time\": \"thirty minutes\"\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/recipes/generate",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"recipes",
+								"generate"
+							]
+						},
+						"description": "Verifies type constraint validation."
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Chef Interactive Chat",
+			"item": [
+				{
+					"name": "Ask Chef Rasoi (Success)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"recipe\": {\n        \"recipe_name\": \"Quick Paneer Bhurji\",\n        \"ingredients\": [\n            { \"name\": \"paneer\", \"quantity\": \"200g\" }\n        ],\n        \"steps\": [\n            { \"instruction\": \"Crumble paneer and sauté with onions and tomatoes.\" }\n        ]\n    },\n    \"question\": \"Can I add some cream to make this richer?\",\n    \"chat_history\": []\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/chef/chat",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"chef",
+								"chat"
+							]
+						},
+						"description": "Sends contextual questions about a recipe to Chef Rasoi assistant."
+					},
+					"response": []
+				},
+				{
+					"name": "Ask Chef Rasoi (Validation Error)",
+					"request": {
+						"method": "POST",
+						"header": [
+							{
+								"key": "Content-Type",
+								"value": "application/json"
+							}
+						],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"recipe\": {\n        \"recipe_name\": \"Paneer Bhurji\"\n    }\n    // Missing required field 'question'\n}"
+						},
+						"url": {
+							"raw": "{{base_url}}/api/v1/chef/chat",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"api",
+								"v1",
+								"chef",
+								"chat"
+							]
+						},
+						"description": "Validates prompt request body structure for chat query."
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://127.0.0.1:5000",
+			"type": "string"
+		}
+	]
+}
